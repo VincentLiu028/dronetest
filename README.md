@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](http://beta.drone.io/api/badges/drone/drone/status.svg)](http://beta.drone.io/drone/drone)
 ![Release Status](https://img.shields.io/badge/status-beta-yellow.svg?style=flat)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drone/drone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -53,3 +54,6 @@ make build   # Build the binary
 ```
 
 If you are having trouble building this project please reference its `.drone.yml` file. Everything you need to know about building Drone is defined in that file.
+=======
+# dronetest
+>>>>>>> 749f08888a32b762273b0fd2c8dd6b1e52f3504b
